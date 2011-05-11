@@ -1,0 +1,11 @@
+development:
+  host: localhost
+  key:  1
+
+test:
+  host: localhost
+  key:  2
+
+production:
+  host: www.example.com
+  key:  1234

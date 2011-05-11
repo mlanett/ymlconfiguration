@@ -1,0 +1,11 @@
+development:
+  size:   1024
+  color:  "pink"
+
+test:
+  size:   1024
+  color:  "yellow"
+
+production:
+  size:   65536
+  color:  "white"
